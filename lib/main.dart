@@ -14,11 +14,11 @@ class ZenixApp extends StatelessWidget {
       title: 'Zenix',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Zenix'),
+          title: const Text("Zenix"),
         ),
         body: const Center(
           child: Text(
-            'Zenix Yakında Hazır!',
+            "Merhaba Zenix 🚀",
             style: TextStyle(fontSize: 24),
           ),
         ),
